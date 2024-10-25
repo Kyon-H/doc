@@ -6,7 +6,7 @@
 
 <img src="https://ghostliner.v6.army:40027/i/2024/10/15/670e89ba4021d.png" alt="image-20240822163714875.png" title="image-20240822163714875.png" style="zoom: 80%;" />
 
-[烧录](https://ghostliner.v6.army:40027/i/2024/10/15/670e89ba4021d.png)
+![烧录](https://ghostliner.v6.army:40027/i/2024/10/15/670e89ba4021d.png)
 
 重启电脑按`F2` 选择U盘启动，若打印信息的最后一行报错，重启按`F12` 进入BIOS，`security`>`secure boot` 选择 `disable` ，`F10` 保存并退出。
 ### 2.硬盘分区
